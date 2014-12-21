@@ -49,4 +49,9 @@ okrabyte.decodeStream(stream, function(error, data){
 });
 ```
 
+Todo
+----------
 
+- JPG support
+- gif support
+- stream interface (i love pipe)
