@@ -1,0 +1,20 @@
+#!/usr/bin/env node
+
+var okrabyte = require('..');
+var colo = require('colo');
+var program = require('commander');
+var package = require('../package.json');
+
+program.version(package.version)
+       .option('-i, --image <image>', 'Input image')
+       .parse(process.argv);
+
+okrabyte.decodeFile(program.image, function(err, data){
+  if (err) {
+    console.log(colo.red("Error:"));
+    console.error(colo.red(err));
+    process.exit(1);
+  }
+  console.log(colo.green("Success."));
+  console.log(data);
+});
