@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "OCR library pure JavaScript",
   "main": "index.js",
+  "bin": "bin/okrabyte",
   "scripts": {
     "test": "mocha"
   },
