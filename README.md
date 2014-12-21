@@ -1,6 +1,8 @@
 okrabyte
 ============
 
+[![Build Status](https://travis-ci.org/yosuke-furukawa/okrabyte.svg?branch=master)](https://travis-ci.org/yosuke-furukawa/okrabyte)
+
 okrabyte is an OCR library pure JavaScript for node.js.
 We use [ocrad.js](https://github.com/antimatter15/ocrad.js/).
 
