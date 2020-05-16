@@ -24,7 +24,7 @@
   "homepage": "https://github.com/yosuke-furukawa/okrabyte",
   "dependencies": {
     "colo": "^1.0.0",
-    "commander": "^2.5.1",
+    "commander": "^5.0.0",
     "ocrad.js": "0.0.1",
     "pngjs": "^0.4.0",
     "simple-bufferstream": "0.0.4"
