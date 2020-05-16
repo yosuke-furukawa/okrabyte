@@ -27,7 +27,7 @@
     "commander": "^5.0.0",
     "ocrad.js": "0.0.1",
     "pngjs": "^5.0.0",
-    "simple-bufferstream": "0.0.4"
+    "simple-bufferstream": "1.0.0"
   },
   "devDependencies": {
     "mocha": "7.1.2"
