@@ -26,7 +26,7 @@
     "colo": "^1.0.0",
     "commander": "^5.0.0",
     "ocrad.js": "0.0.1",
-    "pngjs": "^0.4.0",
+    "pngjs": "^5.0.0",
     "simple-bufferstream": "0.0.4"
   },
   "devDependencies": {
