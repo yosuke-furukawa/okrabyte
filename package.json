@@ -30,6 +30,6 @@
     "simple-bufferstream": "1.0.0"
   },
   "devDependencies": {
-    "mocha": "8.3.2"
+    "mocha": "10.1.0"
   }
 }
